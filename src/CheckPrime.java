@@ -2,8 +2,6 @@ import java.util.Scanner;
 public class CheckPrime {
     // Method to check if a number is prime
     public static boolean isPrime(int n) {
-
-        a
          Handle case for numbers less than or equal to 1
         if (n <= 1) {
             return false;
