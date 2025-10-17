@@ -4,6 +4,7 @@ public class TimeComplexityExamples {
         int sum = 0;
         sum = sum + 5;
         System.out.println("sum = " + sum);
+
         System.out.println("\nKod Parçası 1 - O(n):");
         sum = 0;
         int n = 10;
