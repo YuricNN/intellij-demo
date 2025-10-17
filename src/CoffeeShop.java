@@ -4,6 +4,7 @@ public class CoffeeShop {
         Scanner scanner = new Scanner(System.in);
         // Menü gösterimi
         System.out.println("Welcome to the Coffee Shop!");
+        System.out.println("Welcome to the Coffee Shop!");
         System.out.println("Please choose a drink from the menu below:");
         System.out.println("A -> Americano -> $3.00");
         System.out.println("C -> Cappuccino -> $3.75");

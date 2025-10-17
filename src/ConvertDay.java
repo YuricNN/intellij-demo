@@ -3,6 +3,7 @@ class ConvertDay {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("1 ile 7 arasında bir sayı girin: ");
+        //System.out.println("Welcome to the Coffee Shop!");
         int number = scanner.nextInt();
         switch (number) {
             case 1:
