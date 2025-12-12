@@ -8,7 +8,7 @@ asdpublic class Main {
 
         System.out.println("Adding nodes:");
         for (int value : valuesToAdd) {
-            System.out.println("  addNode(" + value + ")");
+            System.out.println("  addasdNode(" + value + ")");
             tree.addNode(value);
         }
 

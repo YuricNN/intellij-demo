@@ -17,7 +17,7 @@ public class BinaryTree {
         ..asd
         while (current != null) {
             parent = current;
-
+asd
             if (data < current.data) {
                 current = current.left;
             } else if (data > current.data) {
