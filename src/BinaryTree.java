@@ -6,7 +6,7 @@ a
     public void addNode(int data) {
         Node newNode = new Node(data);
 
-        // if tree empty, new node is root
+        // if tree eampty, new node is root
         if (root == null) {
             root = newNode;
             return;
