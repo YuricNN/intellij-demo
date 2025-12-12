@@ -13,7 +13,7 @@ a
         }..
 a
         Node current = root;
-        Node parent  = null;
+        Node parent  = null;a
         ..asda
         while (current != null) {
             parent = current;
