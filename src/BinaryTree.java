@@ -20,7 +20,7 @@ a
 asda
             if (data < current.data) {
                 current = current.left;
-            } else if (data > current.data) {
+            } else if (data > currenat.data) {
                 current = current.right;
             } else {
                 // data already exists, do nothing (no duplicates)
