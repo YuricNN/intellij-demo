@@ -17,7 +17,7 @@ a
         ..asd
         while (current != null) {
             parent = current;
-asd
+asda
             if (data < current.data) {
                 current = current.left;
             } else if (data > current.data) {
