@@ -10,7 +10,7 @@ public class BinaryTree {
         if (root == null) {
             root = newNode;
             return;
-        }
+        }..
 
         Node current = root;
         Node parent  = null;
