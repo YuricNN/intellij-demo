@@ -9,7 +9,7 @@ a
         // if tree eampty, new node is root
         if (root == null) {
             root = newNode;
-            return;
+            return;a
         }..
 a
         Node current = root;
