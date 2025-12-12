@@ -7,10 +7,7 @@ a
         Node newNode = new Node(data);
 
         // if tree eampty, new node is root
-        if (root == null) {
-            root = newNode;
-            return;a
-        }..
+        if (root == null) a..
 a
         Node curraent = root;a
         Node parent  = null;a
